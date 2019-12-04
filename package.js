@@ -2,7 +2,7 @@ Package.describe({
   name: 'pgiani:astronomy-timestamp-behavior',
   version: '2.0.0',
   summary: 'redis-oplog compatible timestamp behavior for Meteor Astronomy',
-  git: 'https://github.com/pgiani/Soft-remove-behavior-for-Meteor-Astronomy',
+  git: 'https://github.com/pgiani/meteor-astronomy-timestamp-behavior',
 });
 
 Package.onUse(function(api) {
